@@ -1,0 +1,13 @@
+.navbar{
+    margin-left: 12%;
+    padding: 2%;
+    font: 1em sans-serif;
+    font-style: italic;
+    
+}
+ .navbar a{
+    text-decoration: none;
+    margin-left:10%;
+    color: #dd6f08;
+    
+} 
